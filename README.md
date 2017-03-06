@@ -1,0 +1,1 @@
+This is a sample neural net created in tensorflow that given the weight of an animal it predicts the size of the brain, this is based on the udacity course by Siraj Raval
