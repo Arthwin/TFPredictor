@@ -1,0 +1,34 @@
+KeywordCategory,CommaSeparatedKeywords
+LLM-LI,"light,lite,ultra light,super light,super lite,extra light,extra lite,xtra light,xtralite"
+LLM-LO,low
+LLM-MLD,"mild,extra mild,super mild"
+MRTP-LORSK,"low additives,lower additives,low chemicals,lower chemicals,low toxins,lower toxins,low carcinogens,lower carcinogens,low nicotine,lower nicotine,low tar,lower tar,low cancer agents,lower cancer agents,low smok,lower smok,low risk,lower risk,low harm,lower harm,low disease,lower disease,low substance,lower substance,low constituent,lower constituent,low ingredients,lower ingredients,low exposure,lower exposure"
+MRTP-RCD,"reduced additives,reduced chemicals,reduced toxins,reduced carcinogens,reduced nicotine,reduced tar,reduced cancer agents,reduced smok,reduced risk,reduced harm,reduced disease,reduced substance,reduced constituent,reduced ingredients,reduced exposure"
+MRTP-FREE,"additive free,chemical free,toxin free,carcinogen free,nicotine free,tar free,cancer agent free,smok free,risk free,harm free,disease free,substance free,constituent free,ingredients free,exposure free,free of additives,free of chemicals,free of toxins,free of carcinogens,free of nicotine,free of tar,free of cancer agents,free of smok,free of risk,free of harm,free of disease,free of substances,free of constituents,free of harmful ingredients,free of exposure"
+MRTP-NOTHARMFUL,"does not contain additives,does not contain chemicals,does not contain toxins,does not contain carcinogens,does not contain nicotine,does not contain tar,does not contain cancer agents,does not contain smoke,does not contain smoking,does not contain risk,does not contain harm,does not contain disease,does not contain substance,does not contain constituent,does not contain ingredients,does not contain exposure,no tar,no additives,no chemicals,no toxins,no carcinogens,no nicotine,no cancer agents,no smo,no risk,no harm,no disease,no substance,no constituent,no ingredients,no exposure"
+MRTP-NATURAL,natural
+MRTP-SAFE,"safe,safer"
+MRTP-FEW,"fewer additives,fewer chemicals,fewer toxins,fewer carcinogens,fewer nicotine,fewer tar,fewer cancer agents,fewer smok,fewer risk,fewer harm,fewer disease,fewer substances,fewer constituents,fewer ingredients,fewer exposure"
+MRTP-LESS,"less additives,less chemicals,less toxins,less carcinogens,less nicotine,less tar,less cancer agents,less smok,less risk,less harm,less disease,less substance,less constituent,less ingredients,less exposure"
+FDA-APP,"fda approved,approved by the fda,approved by fda"
+FDA-SAFE,"fda registered,fda inspected,fda cleared"
+FDA-END,"fda endorsed,endorsed by fda,endorsed by the fda"
+FDA-LOGO,fda logo
+SAMPLES,free
+BRAND,
+SPNSR-NAME,
+SPNSR-LOGO,
+SPNSR-COLOR,
+SPNSR-MOTTO,
+OTHER-OBS-GIFTS,"free gift,free item,free gift with purchase,free item with purchase,free gift in exchange purchase,free item in exchange purchase,free gift for purchase,free item for purchase,gift with purchase,item with purchase,gift in exchange purchase,item in exchange purchase,gift for purchase,item for purchase,credit,proof of purchase,program,contest,reward,reward program,redemption,points,cash back"
+FLV-FRUIT,"apple,apricot,avocado,banana,berry,bilberry,blackberry,blackcurrant,blueberry,boysenberry,currant,cherry,cherimoya,cloudberry,coconut,cranberry,custard apple,damson,date,dragonfruit,durian,elderberry,feijoa,fig,goji berry,gooseberry,grape,raisin,grapefruit,guava,honeyberry,huckleberry,jabuticaba,jackfruit,jambul,jujube,juniper berry,kiwifruit,kumquat,lemon,lime,loquat,longan,lychee,mango,marionberry,melon,cantaloupe,honeydew,watermelon,miracle fruit,mulberry,nectarine,nance,olive,orange,blood orange,clementine,mandarine,tangerine,papaya,passionfruit,peach,pear,persimmon,physalis,plantain,plum,prune,dried plum,pineapple,plumcot,pluot,pomegranate,pomelo,purple mangosteen,quince,raspberry,salmonberry,rambutan,redcurrant,salal berry,salak,satsuma,star fruit,strawberry,tamarillo,tamarind,tomato,ugli fruit,yuzu"
+FLV-HERB,mint
+FLV-SPICE,"anise,cinnamon,coriander,clove,tarragon,thyme"
+FLV-FLR,"floral,ginger,jasmine,lemongrass,rose"
+FLV-ALC,"rum,vodka,cocktail"
+FLV-COFF,"coffee,cappuccino,latte,cocoa"
+FLV-SWEETS,"licorice,chocolate,honey,dessert,caramel,vanilla"
+FLV-IMG,
+CIGSIZE,
+NSE,"camel crush bold,dukes caliber,dukes original,maverick menthol silver box 100s,new reds 100s box,pall mall deep set recessed filter,pall mall deep set recessed filter menthol,predator mint,predator straight,predator wintergreen,revved up mint,revved up straight,revved up wintergreen,stonewall java ,warrior mint,warrior straight,warrior wintergreen,dixon tubes,dixon cigarette tubes,silverfoiltubes,thunder frosted,thunder original,thunder wintergreen,ocb xpert blue,ocb xpert double,ocb virgin,ocb xpert xxl"
+EVENT,"event,show,rodeo,nascar,raceway,speedway,convention,conference,concert,booth,exhibit,register,expo,vendor,theme party,venue"
